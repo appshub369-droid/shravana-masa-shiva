@@ -1,0 +1,219 @@
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'be363fb8fc518f104c1445d573b447cf',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/be363fb8fc518f104c1445d573b447cf/invoke.js"></script>
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>श्रावण मास की शुभकामनाएं</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .main-title {
+            font-size: 2em;
+            color: #ff6f00;
+            margin-bottom: 15px;
+        }
+        #shiva-gif {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        .greeting-card {
+            display: none; /* डिफ़ॉल्ट रूप से छिपा हुआ */
+            margin-bottom: 20px;
+            border: 2px dashed #005a9c;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .greeting-message {
+            font-size: 1.4em;
+            color: #ff6f00;
+            font-weight: bold;
+            animation: fadeInText 2s ease-in-out;
+        }
+        .sender-name {
+            font-size: 1.2em;
+            color: #005a9c;
+            margin-top: 10px;
+            animation: fadeInText 2.5s ease-in-out;
+        }
+        .input-area {
+            margin-top: 20px;
+        }
+        #nameInput {
+            padding: 10px;
+            font-size: 1em;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 80%;
+            margin-bottom: 15px;
+        }
+        #whatsappShareBtn {
+            padding: 12px 20px;
+            font-size: 1.1em;
+            background-color: #25D366;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #whatsappShareBtn:hover {
+            background-color: #128C7E;
+        }
+        #whatsappShareBtn svg {
+            margin-right: 8px;
+        }
+        @keyframes fadeInText {
+            0% { opacity: 0; transform: translateY(20px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="main-title">श्रावण मास की शुभकामनाएं</h1>
+
+        <div id="greetingCard" class="greeting-card">
+            <p id="greetingMessage" class="greeting-message">आपको श्रावण मास के पावन अवसर पर हार्दिक शुभकामनाएं</p>
+            <p id="senderName" class="sender-name"></p>
+        </div>
+
+        <img id="shiva-gif" src="God-Shiva-wallpapers-1.gif" alt="God Shiva Animation">
+
+        <div class="input-area">
+            <h3>Send Greetings on WhatsApp</h3>
+            <p>Enter your name (optional) and share on WhatsApp:</p>
+            <input type="text" id="nameInput" placeholder="Enter your name here (optional)">
+            <br>
+            <button id="whatsappShareBtn">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                    <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"/>
+                </svg>
+                Share on WhatsApp
+            </button>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const senderName = urlParams.get('name');
+            const greetingCard = document.getElementById('greetingCard');
+            const senderNameElement = document.getElementById('senderName');
+            
+            // अगर URL में 'name' पैरामीटर है और वह खाली नहीं है, तभी भेजने वाले का नाम दिखाएं
+            if (senderName) {
+                const decodedName = decodeURIComponent(senderName.replace(/\+/g, ' '));
+                senderNameElement.textContent = `From: ${decodedName}`;
+                greetingCard.style.display = 'block';
+            }
+
+            const whatsappShareBtn = document.getElementById('whatsappShareBtn');
+            const nameInput = document.getElementById('nameInput');
+
+            whatsappShareBtn.addEventListener('click', function() {
+                const name = nameInput.value.trim();
+                const baseURL = window.location.origin + window.location.pathname;
+                
+                let shareableLink;
+                let whatsappMessage;
+
+                if (name !== '') {
+                    // अगर नाम डाला गया है
+                    const encodedName = encodeURIComponent(name);
+                    shareableLink = `${baseURL}?name=${encodedName}`;
+                    whatsappMessage = `*${name}* has sent you special wishes for Shravan Mass. 🙏\n\nClick the link below to see it:\n\n${shareableLink}`;
+                } else {
+                    // अगर नाम नहीं डाला गया है
+                    shareableLink = baseURL; // लिंक में कोई नाम नहीं होगा
+                    whatsappMessage = `You have received special wishes for Shravan Mass. 🙏\n\nClick the link below to see it:\n\n${shareableLink}`;
+                }
+                
+                const whatsappURL = `https://api.whatsapp.com/send?text=${encodeURIComponent(whatsappMessage)}`;
+                window.open(whatsappURL, '_blank');
+            });
+        });
+    </script>
+
+</body>
+</html>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'be363fb8fc518f104c1445d573b447cf',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/be363fb8fc518f104c1445d573b447cf/invoke.js"></script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'be363fb8fc518f104c1445d573b447cf',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/be363fb8fc518f104c1445d573b447cf/invoke.js"></script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'be363fb8fc518f104c1445d573b447cf',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/be363fb8fc518f104c1445d573b447cf/invoke.js"></script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'be363fb8fc518f104c1445d573b447cf',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/be363fb8fc518f104c1445d573b447cf/invoke.js"></script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'be363fb8fc518f104c1445d573b447cf',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/be363fb8fc518f104c1445d573b447cf/invoke.js"></script>
